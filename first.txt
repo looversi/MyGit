@@ -1,2 +1,2 @@
-this is the first git file
-update 
+this is the my git file
+update what the meanning
